@@ -1,0 +1,220 @@
+{
+  "questions": [
+    {
+      "question": "Vilken typ av växellåda är vanligtvis enklare att använda för nybörjare?",
+      "1": "Manuell",
+      "2": "Automatisk",
+      "3": "CVT",
+      "4": "Halvautomatisk",
+      "correctanswer": "Automatisk",
+      "user_answer": ""
+    },
+    {
+      "question": "Vilken är den maximala tillåtna alkoholkoncentrationen i blodet för att köra lagligt?",
+      "1": "0,2 promille",
+      "2": "0,5 promille",
+      "3": "0,8 promille",
+      "4": "1,0 promille",
+      "correctanswer": "0,2 promille",
+      "user_answer": ""
+    },
+    {
+      "question": "Vad ska du göra om du ser en stoppskylt vid en korsning?",
+      "1": "Stanna helt och korsa när det är säkert",
+      "2": "Sakta in och korsa korsningen snabbt",
+      "3": "Göra en högersväng utan att stanna",
+      "4": "Ignarera stoppteknet om ingen annan trafik är näravarande",
+      "correctanswer": "Stanna helt och korsa när det är säkert.",
+      "user_answer": ""
+    },
+    {
+        "question": "Vad bör du göra om trafikljuset blir gult när du närmar dig en korsning?",
+        "1": "Accelerera för att hinna igenom innan det blir rött",
+        "2": "Sakta in och förbered dig på att stanna",
+        "3": "Fortsätt i samma hastighet om det inte finns andra bilar",
+        "4": "Stanna omedelbart, även om du är mitt i korsningen",
+        "correctanswer": "Sakta in och förbered dig på att stanna",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad ska du göra när du ser ett övergångsställe med fotgängare som väntar?",
+        "1": "Köra förbi snabbt för att inte hindra trafiken",
+        "2": "Sakta in och vinka fotgängarna att gå över",
+        "3": "Stanna och låta fotgängarna passera",
+        "4": "Köra vidare om det inte finns några andra bilar",
+        "correctanswer": "Stanna och låta fotgängarna passera",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad innebär det om en vägmarkering är målad med gula linjer?",
+        "1": "Ingen parkering",
+        "2": "Ingen omkörning",
+        "3": "Ingen stoppning",
+        "4": "Ingen trafik i motsatt riktning",
+        "correctanswer": "Ingen parkering",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad ska du göra om ditt fordon börjar glida på en isig väg?",
+        "1": "Bromsa hårt för att stoppa fordonet",
+        "2": "Sväng ratten hårt för att undvika sladd",
+        "3": "Håll dig lugn och styr försiktigt i riktningen du vill åka",
+        "4": "Vänta på att fordonet ska stanna naturligt",
+        "correctanswer": "Håll dig lugn och styr försiktigt i riktningen du vill åka",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad är den maximala tillåtna hastigheten i en bostadszon?",
+        "1": "40 km/h",
+        "2": "50 km/h",
+        "3": "60 km/h",
+        "4": "70 km/h",
+        "correctanswer": "40 km/h",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilket av följande är ett exempel på en väjningsplikt?",
+        "1": "En bil som kör på en huvudväg",
+        "2": "En fotgängare som korsar en gata vid ett övergångsställe",
+        "3": "En cyklist på en cykelbana",
+        "4": "En bil som backar ur en parkeringsplats",
+        "correctanswer": "En fotgängare som korsar en gata vid ett övergångsställe",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad ska du göra om ditt fordon börjar överhettas under körning?",
+        "1": "Stäng av motorn och låt den svalna",
+        "2": "Öka hastigheten för att få mer luftflöde",
+        "3": "Kontrollera kylarvätskenivån och fyll på vid behov",
+        "4": "Stanna och öppna motorhuven för att låta värmen släppa ut",
+        "correctanswer": "Stanna och öppna motorhuven för att låta värmen släppa ut",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken sida av vägen ska du hålla dig på när du kör i länder där man kör på vänster sida?",
+        "1": "Höger sida",
+        "2": "Vänster sida",
+        "3": "Mitten av vägen",
+        "4": "Det beror på trafikflödet",
+        "correctanswer": "Vänster sida",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad är en korrekt handling när du möter en ambulans med påslagna blåljus och sirener?",
+        "1": "Öka hastigheten för att snabbt klara vägen",
+        "2": "Stanna på kanten av vägen och låt ambulansen passera",
+        "3": "Håll dig på din fil och fortsätt köra",
+        "4": "Följ efter ambulansen för att snabbt komma förbi andra fordon",
+        "correctanswer": "Stanna på kanten av vägen och låt ambulansen passera",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken är den rekommenderade handpositionen på ratten för att köra säkert?",
+        "1": "Klockan 10 och 2",
+        "2": "Klockan 9 och 3",
+        "3": "Klockan 8 och 4",
+        "4": "Klockan 12",
+        "correctanswer": "Klockan 9 och 3",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad ska du göra om din bil börjar slira på en halkig väg?",
+        "1": "Trycka hårt på bromsen",
+        "2": "Snabbt ändra riktning",
+        "3": "Minska hastigheten och hålla ratten stadigt",
+        "4": "Öka hastigheten för att få mer grepp",
+        "correctanswer": "Minska hastigheten och hålla ratten stadigt",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilket av följande är ett korrekt steg för att parkera en bil i en uppförsbacke utan trottoar?",
+        "1": "Ställ in bilen med ratten vänd mot trottoaren",
+        "2": "Ställ in bilen med ratten vänd mot vägen",
+        "3": "Använd parkeringsbromsen och ställ in växeln i framåt",
+        "4": "Lämna bilen i frikoppling och stäng av motorn",
+        "correctanswer": "Ställ in bilen med ratten vänd mot vägen",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad är den rekommenderade säkerhetsavståndet när du kör bakom en annan bil?",
+        "1": "En bil längd",
+        "2": "Två bilar längd",
+        "3": "Tre bilar längd",
+        "4": "Fyra bilar längd",
+        "correctanswer": "Tre bilar längd",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken typ av ljus ska du använda när du kör i dimma?",
+        "1": "Dimljus",
+        "2": "Halvljus",
+        "3": "Helljus",
+        "4": "Blinkersljus",
+        "correctanswer": "Dimljus",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad ska du göra om din bil börjar driva åt sidan när du bromsar?",
+        "1": "Släpp bromsen och återuppta bromsningen",
+        "2": "Håll fast i ratten och bromsa gradvis",
+        "3": "Öka hastigheten och bromsa hårdare",
+        "4": "Byt växel till neutral och bromsa långsamt",
+        "correctanswer": "Håll fast i ratten och bromsa gradvis",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilket av följande är en korrekt åtgärd om du möter dimma under körning?",
+        "1": "Öka hastigheten för att komma snabbt ur dimman",
+        "2": "Använd dimljusen och minska hastigheten",
+        "3": "Använd helljuset för att öka synligheten",
+        "4": "Håll samma hastighet och använd inte ljus",
+        "correctanswer": "Använd dimljusen och minska hastigheten",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken är den maximala tillåtna hastigheten för lastbilar på motorvägar?",
+        "1": "80 km/h",
+        "2": "90 km/h",
+        "3": "100 km/h",
+        "4": "110 km/h",
+        "correctanswer": "80 km/h",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken av följande trafikskyltar indikerar att du måste sänka hastigheten och vara uppmärksam på barn?",
+        "1": "Skolzon",
+        "2": "Parkering förbjuden",
+        "3": "Hastighetsbegränsning",
+        "4": "Stoppskylt",
+        "correctanswer": "Skolzon",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken är den mest lämpliga åtgärden om ditt fordon får punktering under körning?",
+        "1": "Bromsa kraftigt och stanna",
+        "2": "Håll ratten rak och sakta in gradvis",
+        "3": "Styr försiktigt till vägens kant och stanna",
+        "4": "Öka hastigheten för att nå närmaste verkstad snabbt",
+        "correctanswer": "Styr försiktigt till vägens kant och stanna",
+        "user_answer": ""
+      },
+      {
+        "question": "Vad ska du göra om du ser ett gult blinkande trafikljus när du kör?",
+        "1": "Sakta in och kör försiktigt genom korsningen",
+        "2": "Stanna och vänta på grönt ljus",
+        "3": "Kör snabbt för att undvika att bli fångad av rött ljus",
+        "4": "Stanna och vänta tills ljuset blir grönt",
+        "correctanswer": "Sakta in och kör försiktigt genom korsningen",
+        "user_answer": ""
+      },
+      {
+        "question": "Vilken typ av ljus ska du använda när du backar en bil i mörker?",
+        "1": "Dimljus",
+        "2": "Halvljus",
+        "3": "Backljus",
+        "4": "Helljus",
+        "correctanswer": "Backljus",
+        "user_answer": ""
+      }
+  ]
+}
